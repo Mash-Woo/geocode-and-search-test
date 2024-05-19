@@ -1,16 +1,12 @@
-# newwave_solution
+# GEOCODING AND SEARCH TESTING PROJECT
 
-A new Flutter project.
+This project is a geocode coding and search-testing project.
 
 ## Getting Started
+- Start date: 05/17/2024
+- End date: 05/19/2024
+- UI: https://giphy.com/gifs/IVf4fSVuOWw0MMLN4L 
+- API Documentation: https://www.here.com/docs/bundle/geocoding-and-search-api-v7-api-reference/page/index.html 
+- API Authentication: https://www.here.com/docs/bundle/identity-and-access-management-developer-guide/page/topics/app-authentication.html 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
